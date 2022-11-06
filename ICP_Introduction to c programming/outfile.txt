@@ -1,0 +1,4 @@
+
+ 	 Customer Name: alex
+ 	 Customer Id: 6422276
+ 	 Car registration number: 6422272
